@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+}
+.container {
+  background-image: linear-gradient(to Bottom, #ff6e7f, #bfe9ff);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  color: #0f172a;
+  font-size: 45px;
+  margin: 20px;
+}
+
+p {
+  color: #334155;
+  margin-bottom: 15px;
+  font-size: 25px;
+}
+.button {
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+  border: 1px solid #1e293b;
+  margin-bottom: 15px;
+}
